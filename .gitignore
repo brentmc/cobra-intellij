@@ -1,0 +1,10 @@
+**/*.DS_Store
+
+/cobra-app
+/cobra-apps
+/cobra-engine
+/cobra-ui
+/cobra-tools
+
+.idea/workspace.xml
+.idea/misc.xml
