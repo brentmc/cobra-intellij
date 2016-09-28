@@ -6,7 +6,17 @@
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/cobra-app/node_modules" />
       <excludeFolder url="file://$MODULE_DIR$/cobra-apps/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/cobra-apps/sightwords_cordova/hooks" />
+      <excludeFolder url="file://$MODULE_DIR$/cobra-apps/sightwords_cordova/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/cobra-apps/sightwords_cordova/plugins" />
+      <excludeFolder url="file://$MODULE_DIR$/cobra-apps/sightwords_cordova/www" />
+      <excludeFolder url="file://$MODULE_DIR$/cobra-apps/sightwords_cordova/www/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cobra-apps/www/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cobra-apps/www/dist" />
       <excludeFolder url="file://$MODULE_DIR$/cobra-engine/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/cobra-exercise/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/cobra-games/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/cobra-lp-api/node_modules" />
       <excludeFolder url="file://$MODULE_DIR$/cobra-tools/node_modules" />
       <excludeFolder url="file://$MODULE_DIR$/cobra-ui/node_modules" />
     </content>
